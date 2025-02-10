@@ -1,14 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=1000&color=4e41a6&random=false&width=435&lines=Projeto+Agência+de+Viagens)](https://git.io/typing-svg)
-<h1 align="center">
+<h4 align="center">
       <img alt="logo" title="logo" src="https://github.com/user-attachments/assets/82578e69-5457-4a7b-8330-e33b86eca7ba" width="200vw"/>
-</h1>
+
+  **DEPLOY**: [beijaflorturismo.com](https://beijaflort2.netlify.app/)
+</h4>
+
+<br>
 
 Desenvolva a página inicial da agência de viagens, incluindo:
 - **HTML** para estruturar o conteúdo.
 - **CSS** para estilização e personalização do design.
 - **Bootstrap** (opcional) para criar um design responsivo e moderno.
-
-  **DEPLOY**: [beijaflorturismo.com](https://beijaflort2.netlify.app/)
 
 ---
 
