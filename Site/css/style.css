@@ -522,6 +522,27 @@ body {
     color: rgba(255, 255, 255, 0.8);
 }
 
+.footer-link {
+    color: var(--white);
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    border-bottom: 1px solid transparent;
+}
+
+.footer-link:hover {
+    color: var(--white);
+    border-bottom-color: var(--white);
+}
+
+.polly-badge {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 0.25rem 0.75rem;
+    border-radius: 15px;
+    font-size: 0.9rem;
+    margin-left: 0.5rem;
+}
+
 /* Responsividade */
 @media (max-width: 991px) {
     .hero-section {
